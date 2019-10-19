@@ -14,3 +14,4 @@ std::ostream& operator<<(std::ostream& os, const Animal*obj)
     return os;
 }
 
+test
